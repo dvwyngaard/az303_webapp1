@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Shackny Is Alive!</h1>
+        <h1>Shacky Is Alive!</h1>
         <p class="lead">-------> To the Cloud we Go! <------------------.</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
